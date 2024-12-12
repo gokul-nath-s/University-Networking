@@ -42,5 +42,5 @@ This project successfully delivered a robust network infrastructure optimized fo
 ---
 
 If you have suggestions or feedback, feel free to reach out!  
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/gokulnath-s2004/)  
-- Email: [Your Email](gokulnaths193@gmail.com)  
+- LinkedIn: [Gokul Nahth S](https://www.linkedin.com/in/gokulnath-s2004/)  
+- Email: [Gokul Nath S](gokulnaths193@gmail.com)  
