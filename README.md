@@ -10,7 +10,7 @@ This project involved designing and implementing a scalable and efficient networ
 - **Optimized Design**: Focused on scalability, security, and reliability during the design and testing phases.  
 
 ## Network Topology  
-![Network Topology] (https://github.com/gokul-nath-s/University-Networking/blob/b797c01f53942ff1e74d5094864c8997952f7c54/1.png)  
+![Network Topology](https://github.com/gokul-nath-s/University-Networking/blob/b797c01f53942ff1e74d5094864c8997952f7c54/1.png)  
 
 ## Technical Details  
 - **Main Campus**:  
