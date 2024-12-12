@@ -10,7 +10,7 @@ This project involved designing and implementing a scalable and efficient networ
 - **Optimized Design**: Focused on scalability, security, and reliability during the design and testing phases.  
 
 ## Network Topology  
-![Network Topology](path/to/your/topology-image.png)  
+![Network Topology](University-Networking/1.png)  
 
 ## Technical Details  
 - **Main Campus**:  
